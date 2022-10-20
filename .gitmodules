@@ -1,0 +1,3 @@
+[submodule "meta/dotfiles"]
+	path = meta/dotfiles
+	url = git@bitbucket.org:snamellit/dotfiles
